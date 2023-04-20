@@ -20,7 +20,7 @@ For example, to convert general_model trained by EXPERT version 0.X to a model t
 
 
 ```shell
-python general_model.py -igeneral_model -ol general_model_lightning
+python general_model.py -igeneral_model -o general_model_lightning
 ```
 Note that the script assumes that the phylogeny file, which is required for converting the model, is located at src/phylogeny.csv relative to the root directory of the project.
 
