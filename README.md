@@ -1,4 +1,4 @@
-# EXPERT Model Convert
+# EXPERT Model Converter
 
 This script can be used to convert a model trained by EXPERT version 0.X, which is based on TensorFlow Keras, to a model that is compatible with EXPERT version 1.X, which is based on PyTorch Lightning.
 
